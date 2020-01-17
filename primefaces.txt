@@ -1,0 +1,3 @@
+Name: Primefaces
+Home link: https://www.primefaces.org/
+Doc link: https://www.primefaces.org/primereact/#/
